@@ -1,0 +1,7 @@
+
+WEB backend serries
+(Must in web course project)
+JWT token
+cookies
+node mailer
+https://doccure.dreamstechnologies.com/html/template/index.html#(final template)
